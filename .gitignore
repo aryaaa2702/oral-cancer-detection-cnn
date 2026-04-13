@@ -1,6 +1,18 @@
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights (large files)
 *.pth
+
+# Data (large datasets)
 Data/
+
+# Generated outputs (bulk images)
+outputs/
